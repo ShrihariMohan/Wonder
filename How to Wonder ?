@@ -1,0 +1,28 @@
+wondershaper must be installed before hand 
+this is just the tool to easily start and stop wondershaper
+
+To Install Wonder Shaper
+
+$ sudo apt install wondershaper 
+
+$ cd bin
+$ git clone https://github.com/magnific0/wondershaper.git
+$ cd wondershaper
+$ sudo make install
+
+
+open wonder.py
+set your port , download speed and upload speed 
+
+port can be found using $ifconfig
+
+Open terminal in the folder containing wonder.py or navigate to this file
+
+$ python3 wonder.py [ run py file ]
+
+Select the options to start or stop the wonderShaper
+
+if you already started the process and want to modify the download speed or upload speed
+use modify
+
+set download speed and upload speed is for first time after that use modify alone
