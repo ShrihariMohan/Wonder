@@ -1,5 +1,5 @@
 # Wonder
-Pyhton application to limit the bandwith using wondershaper
+Python application to limit the bandwith using wondershaper
 
 How to install wondershaper ?
 ```sh
